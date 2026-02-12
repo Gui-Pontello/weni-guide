@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "redhat.vscode-yaml",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-mermaid",
+    "davidanson.vscode-markdownlint",
+    "ms-vscode.powershell"
+  ],
+  "unwantedRecommendations": []
+}

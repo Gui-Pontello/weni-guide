@@ -1,0 +1,145 @@
+MENSAGEM 1 - Enviada sempre que o atendimento será deixado para o próximo dia Omni
+"Olá, tudo bem?
+
+Devido ao alto volume de atendimentos, nosso tempo de resposta pelo WhatsApp está um pouco maior no momento e, infelizmente, não conseguimos dar andamento à sua solicitação hoje por este canal. Pedimos desculpas pela demora e por qualquer transtorno causado.
+
+Responderemos à sua solicitação até amanhã, às 12h. Caso precise de atendimento urgente, pedimos, por gentileza, que entre em contato conosco por telefone pelo número 3003-3400, das 8h às 18h.
+
+Agradecemos sua compreensão e a confiança em nosso trabalho!
+
+Abraços,
+Obramax 🧡"
+MENSAGEM 2 - Mensagem de Inicio de atendimento Omni
+"Olá, tudo bem?
+Pedimos desculpas pela demora - vou dar continuidade ao seu atendimento agora 💬✨
+
+Para te ajudar da melhor forma, você pode me contar como posso te auxiliar hoje?
+
+⚠️ Importante: devido ao alto volume de atendimentos, as conversas que ficarem sem resposta por mais de 10 minutos serão encerradas automaticamente.
+
+Agradecemos a compreensão! 🧡"
+MENSAGEM 3 - Enviada sempre que necessário reagendamento de data entrega/reposição
+"Olá, tudo bem? Esperamos que você esteja ótimo(a)!
+
+Somos do time Obramax e, antes de tudo, gostaríamos de pedir sinceras desculpas por qualquer inconveniente que possamos ter causado. Esse não é o padrão do nosso atendimento, e já estamos trabalhando em melhorias internas. Seu feedback é muito importante para nós!
+
+Entramos em contato para informar sobre o agendamento pendente da entrega do seu material. A entrega será realizada em {{1}}, dentro do horário comercial, das 8h às 18h. Caso haja alguma observação ou orientação adicional, é só responder a esta mensagem que ficaremos à disposição para ajudar.
+
+Agradecemos por nos dar a oportunidade de solucionar o ocorrido. Seguimos trabalhando continuamente para a nossa constante evolução.
+
+Abraços,
+Obramax 🧡"
+MENSAGEM 3 - Enviada sempre que necessário reagendamento de data entrega/reposição
+"Olá, tudo bem? Esperamos que você esteja ótimo(a)!
+
+Somos do time Obramax e, antes de mais nada, gostaríamos de pedir sinceras desculpas por qualquer inconveniente que possamos ter causado. Esse não é o padrão do nosso atendimento, e estamos trabalhando em melhorias internas. Seu feedback é muito importante para nós!
+
+O motivo do nosso contato é informar sobre o agendamento pendente da reposição/coleta do seu material. O serviço será realizado em {{1}}, dentro do horário comercial, das 8h às 18h. Caso haja alguma observação ou orientação adicional, basta responder a esta mensagem que ficaremos à disposição para esclarecer qualquer dúvida.
+
+Agradecemos por nos dar a oportunidade de solucionar o ocorrido e seguimos trabalhando para a nossa constante evolução.
+
+Abraços,
+Obramax 🧡
+"
+MENSAGEM 4 - Enviada para  localização de 2° via e cupom fiscal omni
+"Olá {{1}}, tudo bem?
+
+Para que possamos localizar a via do seu cupom fiscal, por favor, nos envie as seguintes informações:
+
+LOJA/UNIDADE:
+NOME COMPLETO:
+CPF / CNPJ:
+DATA DA COMPRA:
+TELEFONE:
+E-MAIL:
+6 PRIMEIROS E 4 ÚLTIMOS N° DO CARTÃO:
+VALOR TOTAL DA COMPRA:
+CÓDIGO/DESCRIÇÃO DO PRODUTO:
+DATA DA SOLICITAÇÃO:
+RUA/AVENIDA/TRAVESSA:
+COMPLEMENTO:
+BAIRRO:
+CEP:
+
+Assim que recebermos as informações, encaminharemos ao setor responsável e, dentro de até 24h, enviaremos a via do seu cupom fiscal por e-mail ou WhatsApp.
+
+Aguardamos seu retorno!
+
+Abraços,
+{{2}}"
+MENSAGEM 5 - Omni enviada após contato para solicitar imagens 
+"Olá,
+
+Espero que esteja tudo bem com você!
+
+Conforme nosso contato, solicitamos o envio de fotos do material que chegou danificado, assim como a quantidade do item, para que possamos dar andamento à sua solicitação.
+
+Caso precise de qualquer ajuda para realizar o envio, fico à disposição para auxiliar. Agradecemos desde já sua compreensão e colaboração.
+
+Abraços,
+Obramax 🧡"
+MENSAGEM 6 - Omni enviado quando tentamos contato e não temos sucesso
+"Olá, {{1}}!
+
+Desde já, pedimos desculpas pelo transtorno. Tentamos entrar em contato para tratar da sua solicitação, mas não obtivemos retorno até o momento.
+
+Poderia, por gentileza, responder a esta mensagem ou entrar em contato com nossa equipe de pós-venda pelo telefone 3003-3400? Nosso atendimento funciona de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 16h.
+
+Ficamos à disposição para ajudar!
+
+Atenciosamente,
+{{2}}"
+MENSAGEM 7 - Enviada para fimalizar e informar da disponilidade de crédito
+"Olá, {{1}}, tudo bem?
+
+Sentimos muito por todos os transtornos causados. Estamos trabalhando continuamente para aprimorar os pontos mencionados e garantir uma experiência cada vez melhor em nossas lojas e serviços.
+
+Como forma de compensação pelos inconvenientes, disponibilizamos o valor do frete como crédito. Você pode optar pelo estorno desse valor ou utilizá-lo em uma nova compra, seja pelo site ou diretamente em nossas lojas.
+
+Permanecemos à disposição para qualquer outra necessidade ou esclarecimento."
+MENSAGEM 8 - Envia sempre que é necessário confirmar dados e não temos contato 
+"Olá, {{1}}! Tudo bem?
+
+Somos do Pós-Vendas da Obramax. Estamos tentando entrar em contato para tratar da sua solicitação de estorno, mas não tivemos sucesso até o momento. Poderia, por gentileza, entrar em contato com a Central do Cliente pelo telefone 3003-3400, opção 3?
+
+Nosso horário de atendimento é de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 16h.
+
+Aguardamos seu retorno o mais breve possível.
+
+PS: Por ora, o protocolo {{2}} foi resolvido.
+
+Abraços,
+Obramax 🧡"
+MENSAGEM 8 - Envia sempre que é necessário confirmar dados e não temos contato - e-mail
+"Olá,! Tudo bem?
+
+Somos do Pós-Vendas da Obramax. Desde já, pedimos desculpas pelo transtorno causado com o seu pedido.
+
+Tentamos entrar em contato pelo telefone +55 11 99960-0095, mas não obtivemos sucesso. Poderia, por gentileza, entrar em contato com nossa Central de Pós-Vendas pelo telefone 3003-3400?
+
+Nosso horário de atendimento é de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 16h.
+
+Aguardamos o seu retorno.
+
+Obs.: Este e-mail é automático. Por favor, não responda a este remetente."
+MENSAGEM 10 - e-mial enviado sempre que um protoclo é finalizado 
+"Olá, Luana Regina Siqueira dos Santos! Tudo bem?
+
+Lamentamos que tenha enfrentado algum problema conosco. Nosso objetivo é garantir que você tenha sempre uma ótima experiência com a Obramax.
+
+Entendemos que sua solicitação já foi atendida e, por isso, estamos concluindo o seu chamado. Caso precise de qualquer outro apoio, ficaremos felizes em ajudar por meio da nossa Central de Pós-Vendas, pelo telefone 3003-3400.
+
+Nosso horário de atendimento é de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 16h.
+
+Ficamos à disposição!
+
+Abraços,"
+MENSAGEM 11 - e-mail enviado sempre que um comprovante é concluido 
+"Olá, boa tarde!
+
+Segue em anexo o comprovante do seu estorno.
+
+Caso precise de qualquer outro auxílio, estaremos à disposição por meio da nossa Central de Pós-Vendas, pelo telefone 3003-3400. Nosso horário de atendimento é de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 16h.
+
+Abraços,
+Obramax"

@@ -1,0 +1,159 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Weni: Login",
+      "type": "shell",
+      "command": "weni",
+      "args": ["login"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      },
+      "problemMatcher": [],
+      "group": "none"
+    },
+    {
+      "label": "Weni: List Projects",
+      "type": "shell",
+      "command": "weni",
+      "args": ["project", "list"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Weni: Init New Agent",
+      "type": "shell",
+      "command": "weni",
+      "args": ["init"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Weni: Run (Test Locally)",
+      "type": "shell",
+      "command": "weni",
+      "args": ["run"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "focus": true
+      },
+      "isBackground": false,
+      "problemMatcher": []
+    },
+    {
+      "label": "Weni: Run Verbose (With Logs)",
+      "type": "shell",
+      "command": "weni",
+      "args": ["run", "--verbose"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "focus": true
+      },
+      "isBackground": false,
+      "problemMatcher": [],
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Weni: Push to Production",
+      "type": "shell",
+      "command": "weni",
+      "args": ["project", "push"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Weni: View Production Logs",
+      "type": "shell",
+      "command": "weni",
+      "args": ["logs"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      },
+      "isBackground": false,
+      "problemMatcher": []
+    },
+    {
+      "label": "Weni: View Logs (Follow)",
+      "type": "shell",
+      "command": "weni",
+      "args": ["logs", "--follow"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Open: Visão 360° Documentation",
+      "type": "shell",
+      "command": "code",
+      "args": ["${workspaceFolder}/docs/08-visao-360-projeto-weni-obramax.md"],
+      "presentation": {
+        "reveal": "never"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Open: Quick Reference",
+      "type": "shell",
+      "command": "code",
+      "args": ["${workspaceFolder}/QUICK-REFERENCE.md"],
+      "presentation": {
+        "reveal": "never"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Open: Visual Flow Diagrams",
+      "type": "shell",
+      "command": "code",
+      "args": ["${workspaceFolder}/DIAGRAMA-FLUXO-COMPLETO.md"],
+      "presentation": {
+        "reveal": "never"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Python: Install Weni CLI",
+      "type": "shell",
+      "command": "pip",
+      "args": ["install", "weni-cli"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Python: Upgrade Weni CLI",
+      "type": "shell",
+      "command": "pip",
+      "args": ["install", "--upgrade", "weni-cli"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

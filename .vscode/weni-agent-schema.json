@@ -1,0 +1,128 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Weni Agent Definition",
+    "description": "Schema for Weni Platform agent_definition.yaml",
+    "type": "object",
+    "required": [
+        "agent"
+    ],
+    "properties": {
+        "agent": {
+            "type": "object",
+            "required": [
+                "name",
+                "version",
+                "description"
+            ],
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "Agent name (no spaces, use PascalCase)"
+                },
+                "version": {
+                    "type": "string",
+                    "pattern": "^\\d+\\.\\d+\\.\\d+$",
+                    "description": "Semantic version (e.g., 1.0.0)"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "Brief description of the agent"
+                }
+            }
+        },
+        "credentials": {
+            "type": "array",
+            "description": "API keys and secrets (set in Weni Platform)",
+            "items": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "description"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Credential key name (UPPERCASE_WITH_UNDERSCORES)"
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "Brief description of what this credential is for"
+                    }
+                }
+            }
+        },
+        "constants": {
+            "type": "array",
+            "description": "Static configuration values",
+            "items": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "value"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Constant name (UPPERCASE_WITH_UNDERSCORES)"
+                    },
+                    "value": {
+                        "type": "string",
+                        "description": "Constant value (strings, numbers, URLs)"
+                    }
+                }
+            }
+        },
+        "instructions": {
+            "type": "string",
+            "description": "System prompt / agent behavior instructions"
+        },
+        "guardrails": {
+            "type": "array",
+            "description": "Safety and limit controls",
+            "items": {
+                "type": "object",
+                "required": [
+                    "type"
+                ],
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "check_message_limit",
+                            "check_session_timeout",
+                            "check_profanity",
+                            "check_pii"
+                        ],
+                        "description": "Guardrail type"
+                    },
+                    "params": {
+                        "type": "object",
+                        "description": "Guardrail parameters (depends on type)"
+                    }
+                }
+            }
+        },
+        "tools": {
+            "type": "array",
+            "description": "Tools available to the agent",
+            "items": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "path"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Tool name (CamelCase, matches class name)"
+                    },
+                    "path": {
+                        "type": "string",
+                        "pattern": "^tools/[a-zA-Z0-9_-]+$",
+                        "description": "Path to tool directory (e.g., tools/myTool)"
+                    }
+                }
+            }
+        }
+    }
+}
