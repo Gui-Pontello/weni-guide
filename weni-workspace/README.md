@@ -3,8 +3,10 @@
 ## � Acesso Rápido
 
 - 📘 **[Visão 360° - Projeto Completo](docs/08-visao-360-projeto-weni-obramax.md)** - Documentação master consolidada 🔥
+- 📊 **[Matriz Completa - Análise](MATRIZ-COMPLETA-ANALISE.md)** - 13 abas do Excel explicadas 🆕
 - 🗺️ **[Índice Rápido](INDICE-RAPIDO.md)** - Navegação por objetivo e nível
-- ⚡ **[Quick Reference](QUICK-REFERENCE.md)** - Comandos e snippets essenciais- 🎯 **[Setup VS Code](.vscode/README.md)** - Workspace pré-configurado (Github Copilot + Snippets + Tasks) 🆕
+- ⚡ **[Quick Reference](QUICK-REFERENCE.md)** - Comandos e snippets essenciais
+- 🎯 **[Setup VS Code](.vscode/README.md)** - Workspace pré-configurado (Github Copilot + Snippets + Tasks) 🆕
 
 ---
 
@@ -102,13 +104,13 @@ Repositório oficial da Weni CLI (v3.5.2):
 
 ## 📊 Estatísticas da Documentação
 
-- **📄 Total de documentos:** 23 arquivos
+- **📄 Total de documentos:** 24 arquivos (+ 1 análise da Matriz)
 - **🤖 Agentes documentados:** 5 (Concierge, PDP, Checkout, Order, Orçamax)
-- **💬 Templates de mensagens:** 11 templates Omni
+- **💬 Templates de mensagens:** 11+ templates Omni
 - **🔌 APIs integradas:** 6 VTEX APIs + Weni Flows
 - **📝 Linhas de código exemplo:** ~2.500+
-- **🎯 PDFs analisados:** 6 arquivos
-- **📊 Dados estruturados:** 1 planilha CSV
+- **📊 Matriz Excel:** 13 abas (usuários, permissões, instruções, REQs, campanhas)
+- **🎯 Workspace consolidado:** Tudo em uma pasta única
 
 ---
 
