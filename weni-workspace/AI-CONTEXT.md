@@ -374,7 +374,8 @@ weni-flow       # Trigger flow
 
 ## 🎓 Learning Path
 
-**Week 1:** Read this file + QUICK-REFERENCE.md + Create first agent  
+**Day 1 (Start Here!):** Follow [QUICK-START.md](QUICK-START.md) → Create first agent in 10 minutes  
+**Week 1:** Read this file + QUICK-REFERENCE.md + Study production agents  
 **Week 2:** Study docs/08-visao-360 + Implement VTEX integration  
 **Week 3:** Add error handling + Weni Flows + Deploy to prod  
 **Month 2+:** Optimize performance, add analytics, custom guardrails  

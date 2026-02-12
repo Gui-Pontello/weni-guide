@@ -215,11 +215,12 @@ response = requests.post(url, json=payload,
 ## 📚 Documentation Hierarchy
 
 **Start here (in order):**
-1. **AI-CONTEXT.md** (root) - Quick overview (YOU SHOULD READ THIS)
-2. **QUICK-REFERENCE.md** - Commands, APIs, snippets
-3. **docs/08-visao-360-projeto-weni-obramax.md** - Complete 360° reference
-4. **.vscode/weni-agent.code-snippets** - Code templates
-5. **MATRIZ-COMPLETA-ANALISE.md** - 13 Excel sheets explained
+1. **QUICK-START.md** - First agent in 10 minutes (HANDS-ON!)
+2. **AI-CONTEXT.md** (root) - Quick overview (YOU SHOULD READ THIS)
+3. **QUICK-REFERENCE.md** - Commands, APIs, snippets
+4. **docs/08-visao-360-projeto-weni-obramax.md** - Complete 360° reference
+5. **.vscode/weni-agent.code-snippets** - Code templates
+6. **MATRIZ-COMPLETA-ANALISE.md** - 13 Excel sheets explained
 
 **Reference as needed:**
 - docs/00-guia-inicio-rapido.md - Quick start guide
@@ -298,12 +299,11 @@ weni logs --follow
 ## 🎓 Learning Context
 
 If you're helping someone new to the project:
-1. Start with AI-CONTEXT.md
-2. Work through QUICK-REFERENCE.md
-3. Create a simple agent using snippets
-4. Test locally with `weni run --verbose`
-5. Study production agent examples
-6. Read docs/08-visao-360 for complete understanding
+1. **Follow QUICK-START.md step-by-step** (10 minutes, hands-on)
+2. Read AI-CONTEXT.md for architecture
+3. Work through QUICK-REFERENCE.md
+4. Study production agent examples
+5. Read docs/08-visao-360 for complete understanding
 
 ---
 

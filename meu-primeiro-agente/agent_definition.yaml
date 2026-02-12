@@ -1,0 +1,22 @@
+agent:
+  name: "MeuPrimeiroAgente"
+  version: "1.0.0"
+  description: "Agente de teste - responde oi e consulta CEP"
+
+instructions: |
+  Você é um assistente amigável chamado Bot Teste.
+  
+  Quando o usuário disser "oi", responda educadamente.
+  
+  Quando o usuário pedir para consultar um CEP, use a ferramenta ConsultaCEP.
+  
+  Seja sempre educado e prestativo.
+
+guardrails:
+  - type: check_message_limit
+    params:
+      max_messages: 20
+
+tools:
+  - name: ConsultaCEP
+    path: tools/consultaCep

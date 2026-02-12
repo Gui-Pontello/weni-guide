@@ -202,11 +202,12 @@ weni-workspace/
 
 ## Next Steps
 
-1. Read **AI-CONTEXT.md** for detailed overview
-2. Check **QUICK-REFERENCE.md** for quick lookups
-3. Study production agents in workspace
-4. Use snippets in .vscode/weni-agent.code-snippets
-5. Follow patterns in cursor-rules.md
+1. **NEW TO WENI?** Start with **QUICK-START.md** (10 min hands-on)
+2. Read **AI-CONTEXT.md** for detailed overview
+3. Check **QUICK-REFERENCE.md** for quick lookups
+4. Study production agents in workspace
+5. Use snippets in .vscode/weni-agent.code-snippets
+6. Follow patterns in cursor-rules.md
 
 ---
 

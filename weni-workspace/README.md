@@ -2,8 +2,9 @@
 
 ## � Acesso Rápido
 
-- 🤖 **[AI CONTEXT](AI-CONTEXT.md)** - Contexto completo para assistentes IA (Copilot, Claude, Cursor) 🆕✨
-- 📘 **[Visão 360° - Projeto Completo](docs/08-visao-360-projeto-weni-obramax.md)** - Documentação master consolidada 🔥
+- 🚀 **[QUICK START](QUICK-START.md)** - Do zero ao primeiro agente em 10 minutos! 🆕🔥
+- 🤖 **[AI CONTEXT](AI-CONTEXT.md)** - Contexto completo para assistentes IA (Copilot, Claude, Cursor) ✨
+- 📘 **[Visão 360° - Projeto Completo](docs/08-visao-360-projeto-weni-obramax.md)** - Documentação master consolidada 
 - 📊 **[Matriz Completa - Análise](MATRIZ-COMPLETA-ANALISE.md)** - 13 abas do Excel explicadas 
 - 🗺️ **[Índice Rápido](INDICE-RAPIDO.md)** - Navegação por objetivo e nível
 - ⚡ **[Quick Reference](QUICK-REFERENCE.md)** - Comandos e snippets essenciais
