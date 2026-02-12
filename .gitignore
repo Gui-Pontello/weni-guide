@@ -9,6 +9,15 @@
 # Agent definitions with real credentials (use templates instead)
 # agent_definition.yaml
 
+# PDFs and binary files
+*.pdf
+*.PDF
+
+# External repositories (use links instead)
+Obramax/
+weni-cli/
+weni-cli-https/
+
 # Python
 __pycache__/
 *.py[cod]
